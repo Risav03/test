@@ -1,0 +1,36 @@
+.topnav{
+    background-color: rgb(8, 10, 43);
+}
+
+body{
+    margin: 0px;
+}
+
+.topmsc{
+    width: 50px;
+    margin: 8px;
+}
+
+.btn-group{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+
+ .button {
+    background-color: rgb(8, 10, 43);
+    border: none;
+    color: white;
+    padding: 26px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: right;
+  }
+
+ .button:hover {
+    transition: ease-in-out 0.5s;
+    background-color: rgb(5, 6, 27);}
